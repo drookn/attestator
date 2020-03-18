@@ -1,0 +1,6 @@
+python-telegram-bot
+requests
+FPDF
+PyPDF2
+reportlab
+pillow
